@@ -1,7 +1,7 @@
 # This is a test application for the decision tree algorithm. It
-# stores the number of errors is gets for each k value from
-# 1 to 1000 and graphs the results using the matplotlib library.
-# These results can be found in the evidence folder under figure 1.
+# stores the number of errors is gets for each depth value from
+# 1 to 40 and graphs the results using the matplotlib library.
+# These results can be found in the evidence folder under figure 2.
 
 # Import required modules
 from sklearn.model_selection import ShuffleSplit, train_test_split
