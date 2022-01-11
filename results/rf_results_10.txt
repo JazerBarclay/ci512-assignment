@@ -1,0 +1,95 @@
+Train/test accuracy: 0.9681159420289855
+Cross fold validation accuracy mean: 0.9662801932367149
+False Positive: 0.00966183574879227
+False Negative: 0.022222222222222223
+Confusion Matrix
+TP: 265 | TN: 737
+FP: 10 | FN: 23
+Precision: 0.9636363636363636
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98       747
+           1       0.96      0.92      0.94       288
+
+    accuracy                           0.97      1035
+   macro avg       0.97      0.95      0.96      1035
+weighted avg       0.97      0.97      0.97      1035
+
+= = = = = = = = = = = =
+Train/test accuracy: 0.9729468599033816
+Cross fold validation accuracy mean: 0.9650241545893721
+False Positive: 0.012560386473429951
+False Negative: 0.014492753623188406
+Confusion Matrix
+TP: 285 | TN: 722
+FP: 13 | FN: 15
+Precision: 0.9563758389261745
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       735
+           1       0.96      0.95      0.95       300
+
+    accuracy                           0.97      1035
+   macro avg       0.97      0.97      0.97      1035
+weighted avg       0.97      0.97      0.97      1035
+
+= = = = = = = = = = = =
+Train/test accuracy: 0.9642512077294686
+Cross fold validation accuracy mean: 0.9628019323671498
+False Positive: 0.01352657004830918
+False Negative: 0.022222222222222223
+Confusion Matrix
+TP: 261 | TN: 737
+FP: 14 | FN: 23
+Precision: 0.9490909090909091
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98       751
+           1       0.95      0.92      0.93       284
+
+    accuracy                           0.96      1035
+   macro avg       0.96      0.95      0.95      1035
+weighted avg       0.96      0.96      0.96      1035
+
+= = = = = = = = = = = =
+Train/test accuracy: 0.961352657004831
+Cross fold validation accuracy mean: 0.9667632850241545
+False Positive: 0.018357487922705314
+False Negative: 0.020289855072463767
+Confusion Matrix
+TP: 264 | TN: 731
+FP: 19 | FN: 21
+Precision: 0.9328621908127208
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       750
+           1       0.93      0.93      0.93       285
+
+    accuracy                           0.96      1035
+   macro avg       0.95      0.95      0.95      1035
+weighted avg       0.96      0.96      0.96      1035
+
+= = = = = = = = = = = =
+Train/test accuracy: 0.9642512077294686
+Cross fold validation accuracy mean: 0.9621256038647343
+False Positive: 0.00966183574879227
+False Negative: 0.02608695652173913
+Confusion Matrix
+TP: 286 | TN: 712
+FP: 10 | FN: 27
+Precision: 0.9662162162162162
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.97       722
+           1       0.97      0.91      0.94       313
+
+    accuracy                           0.96      1035
+   macro avg       0.96      0.95      0.96      1035
+weighted avg       0.96      0.96      0.96      1035
+
+= = = = = = = = = = = =
